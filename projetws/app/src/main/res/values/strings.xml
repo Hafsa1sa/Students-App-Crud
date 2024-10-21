@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StudentManager</string>
+    <array name="spinner">
+        <item>Choisissez une ville</item>
+        <item>Casablanca</item>
+        <item>Rabat</item>
+        <item>Eljadida</item>
+        <item>Agadir</item>
+        <item>Settat</item>
+        <item>Salé</item>
+        <item>Marrakesh</item>
+    </array>
+</resources>
